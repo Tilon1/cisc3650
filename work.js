@@ -34,7 +34,9 @@ for (i = 0; i < myNodelist.length; i++) {
   var txt = document.createTextNode("\u00D7");
   span.className = "close";
   span.appendChild(txt);
-  myNodelist[i].appendChild(span);
+  myNodelist[myNodelist.length-1].appendChild(span);
+  break;
+
 }
 // Click on a close button to hide the current list item
 var close = document.getElementsByClassName("close");
