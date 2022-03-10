@@ -24,7 +24,6 @@ function addItem(){
         checkbox.value="value";
         li.appendChild(checkbox);
         li.appendChild(date);
-        alert(li.id);
         }
         
 
