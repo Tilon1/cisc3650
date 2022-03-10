@@ -5,11 +5,13 @@
 5: one affordance would be the extra close box appearing when you add an item which is definetly a hidden affordance. One constrain will be that you cannot change an item once its added which is a logical constraint;
 
 REFERENCES
--https://www.w3schools.com/howto/howto_js_todolist.asp
-	    -https://www.geeksforgeeks.org/javascript-project-on-todo-list/
-                -https://www.youtube.com/watch?v=chDyOc4ufqA&ab_channel=roottech
-            -https://www.youtube.com/watch?v=7l-ZAuU8TXc&t=749s&ab_channel=TraversyMedia
+-https://stackoverflow.com/questions/20673959/how-to-add-new-li-to-ul-onclick-with-javascript(I used this to figure out how to add items to the list)
+-https://www.w3schools.com/howto/howto_js_todolist.asp (I used some of the code from here to create the close button and append it to each list)
+	    -https://www.geeksforgeeks.org/javascript-project-on-todo-list/ (I used this to give me a better understanding of javascript)
+                -https://www.youtube.com/watch?v=chDyOc4ufqA&ab_channel=roottech(This video helped me create the add bar in bootstrap)
+            -https://www.youtube.com/watch?v=7l-ZAuU8TXc&t=749s&ab_channel=TraversyMedia(This video just gave me better general knowledge of bootstrap)
 
 TASKS COMPLETED
 A,1-5
 B,1-2
+
