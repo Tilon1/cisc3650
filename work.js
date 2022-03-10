@@ -24,7 +24,7 @@ function addItem(){
         checkbox.value="value";
         li.appendChild(checkbox);
         li.appendChild(date);
-        }
+        
         
 
         var myNodelist = document.getElementsByTagName("LI");
@@ -47,6 +47,7 @@ for (i = 0; i < close.length; i++) {
     div.style.display = "none";
   }
 }
+        }
         
         
 }
