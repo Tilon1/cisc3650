@@ -1,0 +1,15 @@
+1:The demographic of users are those that are 10 and up. The reason why is because when you reach the age where you can functionally work a piece of technology you can use this to-do list to complete your tasks
+2:I wanted to create a sleek and simple to do list where the user knew what to do and adding items to the list were seamlessa and easy.
+3: Considering Schneiderman’s eight heuristics for interface design, I offered informative feedback because when you click on the x the list you want delted becomes deleted and if you click a check box the check appears and goes away. I've also provided easy reversal of actions because if you deicde that you accidentaly clicked on a check box you can undo it by clicking on the check box again
+4: I would say that the simplicity and sleeknes of my ewebsite is appealing. I could definetly improve on the boxes so when a user adds an item another checkbox doesnt appear.
+5: one affordance would be the extra close box appearing when you add an item which is definetly a hidden affordance. One constrain will be that you cannot change an item once its added which is a logical constraint;
+
+REFERENCES
+-https://www.w3schools.com/howto/howto_js_todolist.asp
+	    -https://www.geeksforgeeks.org/javascript-project-on-todo-list/
+                -https://www.youtube.com/watch?v=chDyOc4ufqA&ab_channel=roottech
+            -https://www.youtube.com/watch?v=7l-ZAuU8TXc&t=749s&ab_channel=TraversyMedia
+
+TASKS COMPLETED
+A,1-5
+B,1-2
